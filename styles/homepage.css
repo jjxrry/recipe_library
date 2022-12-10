@@ -1,0 +1,108 @@
+body    {
+    background-color: #314029;
+}
+.title   {
+    text-align: center;
+    color:wheat;
+}
+
+.div-spacing    {
+    height: 50px;
+}
+
+/* RECIPE LISTS*/
+div.pasta-parent    {
+    text-align: center;
+    background-color: darkolivegreen;
+    width: 250px;
+    height: auto;
+    margin: auto;
+    border-radius: 12px;
+    line-height: auto;
+}
+
+.pasta-parent .pasta-title {
+    margin: auto;
+    color: wheat;
+    text-align: center;
+    padding-top: 8%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+div.mains-parent    {
+    text-align: center;
+    background-color: darkolivegreen;
+    width: 250px;
+    height: auto;
+    margin: auto;
+    border-radius: 12px;
+    line-height: auto;
+}
+
+.mains-parent .mains-title {
+    margin: auto;
+    color: wheat;
+    text-align: center;
+    padding-top: 8%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+div.dessert-parent    {
+    text-align: center;
+    background-color: darkolivegreen;
+    width: 250px;
+    height: auto;
+    margin: auto;
+    border-radius: 12px;
+    line-height: auto;
+}
+
+.dessert-parent .dessert-title {
+    margin: auto;
+    color: wheat;
+    text-align: center;
+    padding-top: 8%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+div.family-parent    {
+    text-align: center;
+    background-color: darkolivegreen;
+    width: 250px;
+    height: auto;
+    margin: auto;
+    border-radius: 12px;
+    line-height: auto;
+}
+
+.family-parent .family-title {
+    margin: auto;
+    color: wheat;
+    text-align: center;
+    padding-top: 8%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    line-height: auto;
+    
+}
+
+/* HYPERLINK STYLES */
+a:link  {
+    color: wheat;
+}
+
+a:visited   {
+    color: #192b10;
+}
+
+a:hover {
+    color:wheat;
+}
